@@ -31,7 +31,6 @@ const MiComponente = () => {
 
         editarPersona()
 
-        //borrar en el peor de los casos
         setId("")
         setNombre("")
         setApellido("")
